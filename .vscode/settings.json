@@ -1,0 +1,20 @@
+{
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false,
+    "editor.suggestOnTriggerCharacters": false,
+
+    "haxe.buildCompletionCache": true,
+    "haxe.enableDiagnostics": false,
+    "haxe.enableSignatureHelpDocumentation": false,
+    "haxe.diagnosticsPathFilter": "${workspaceRoot}/src|${haxelibPath}",
+
+    "haxe.enableServerView": true,
+    "haxe.displayServer": {
+        "arguments": ["-v"]
+    }
+}
